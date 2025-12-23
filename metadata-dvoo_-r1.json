@@ -1,0 +1,12 @@
+{
+  "name": "BJJ PRO Federation 03",
+  "short_name": "BJJ PRO",
+  "description": "Sistema Federativo de Gestão de Jiu-Jitsu com IA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#D4AF37",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
